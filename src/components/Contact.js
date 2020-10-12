@@ -17,10 +17,7 @@ const Contact = () => {
                 <img src="/images/logo.png" alt="" />
               </div>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exe- rcitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem molestias quod facilis unde eum!
               </p>
               <ul className="contactCircles">
                 <li>
